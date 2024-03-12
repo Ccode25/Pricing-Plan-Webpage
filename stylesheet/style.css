@@ -7,6 +7,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-style: normal;
+  font-size: 2rem;
   
   
 }
@@ -26,6 +27,8 @@ body {
   padding: 30px;
   justify-content: end;
   text-decoration: none;
+  font-size: x-small;
+  font-weight: lighter;
 
 }
 
@@ -38,6 +41,7 @@ body {
 .button > button {
   background-color: #7F00FF;
   color: white;
+  font-size: x-small;
 }
 
 
@@ -50,8 +54,9 @@ body {
 
 h1 {
   color: black;
-  font-size: 2rem;
+  font-size: larger;
   text-align: center;
+  font-weight: bolder;
 }
 
 
@@ -86,7 +91,7 @@ h1 {
   flex-direction: column;
   justify-content: center;
   font-weight: lighter;
-  font-size: large;
+  font-size: small;
 
 }
 
